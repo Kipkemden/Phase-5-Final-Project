@@ -3,10 +3,10 @@ puts "🌱 Seeding tours..."
 
 # Admins test data
 
-admin1 = Admin.create(name:'Ocholla', email: 'ocholla@gmail.com', password: 'ocholla1234')
-admin2 = Admin.create(name:'Teresia', email: 'teresia@gmail.com', password: 'teresia1234')
-admin3 = Admin.create(name:'Clinton', email: 'clinton@gmail.com', password: 'clinton1234')
-admin4 = Admin.create(name:'Trevor', email: 'trevor@gmail.com', password:  'trevor1234')
+admin1 = Admin.create(name:'Steph', email: 'steph@gmail.com', password: 'steph1234')
+admin2 = Admin.create(name:'Najma', email: 'najma@gmail.com', password: 'najma1234')
+admin3 = Admin.create(name:'Ann', email: 'ann@gmail.com', password: 'ann1234')
+admin4 = Admin.create(name:'Samantha', email: 'samantha@gmail.com', password:  'samantha1234')
 admin5 = Admin.create(name:'Denis', email: 'denis@gmail.com', password: 'denis1234')
 
 # package data
