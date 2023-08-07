@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  service_usage: MyString
+  feedback_text: MyText
+
+two:
+  name: MyString
+  service_usage: MyString
+  feedback_text: MyText
